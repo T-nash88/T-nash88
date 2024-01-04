@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-nash88
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python and SQL ETL/ELT and cloud accounting
+- 🌱 I’m currently learning python and SQL ETL/ELT and cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
